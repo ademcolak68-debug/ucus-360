@@ -1,0 +1,103 @@
+{
+  "format": "ennetmax-ucus-projesi",
+  "version": 1,
+  "ucusAyarlari": {
+    "baslangicZoom": "17",
+    "ucusZoom": "15",
+    "kameraAcisi": "45",
+    "kameraYonu": "0",
+    "donusHizi": "20",
+    "duraklar": [
+      {
+        "ad": "1",
+        "koordinat": "34.038811, 38.352917",
+        "sure": "",
+        "etiket": "DAĞILGAN\\nSTADYUMU"
+      },
+      {
+        "ad": "2",
+        "koordinat": "34.037897, 38.346193",
+        "sure": "",
+        "etiket": "DAĞILGAN\\nTOKİ"
+      },
+      {
+        "ad": "3",
+        "koordinat": "34.043133, 38.347839",
+        "sure": "",
+        "etiket": "İLKOKUL"
+      }
+    ],
+    "yolYazilari": [
+      {
+        "id": 1,
+        "yolAdi": "Alparslan Türkeş Bulvarı",
+        "boyut": 12,
+        "nokta1": [
+          34.03337375436328,
+          38.35416159097352
+        ],
+        "nokta2": [
+          34.038645584312775,
+          38.35584463093883
+        ]
+      },
+      {
+        "id": 2,
+        "yolAdi": "Sağlık Kasabası Yolu",
+        "boyut": 12,
+        "nokta1": [
+          34.04268082039306,
+          38.35229658692347
+        ],
+        "nokta2": [
+          34.04502609077244,
+          38.345371075757726
+        ]
+      }
+    ]
+  },
+  "tanitimBilgileri": [
+    {
+      "text": "Laleli Mahallesinde",
+      "color": "#ffffff",
+      "size": "20",
+      "weight": "700",
+      "isBadge": false
+    },
+    {
+      "text": "Konut Alanı İmarlı",
+      "color": "#38bdf8",
+      "size": "18",
+      "weight": "500",
+      "isBadge": false
+    },
+    {
+      "text": "A-3 | Emsal: 0.75",
+      "color": "#cbd5e1",
+      "size": "18",
+      "weight": "500",
+      "isBadge": false
+    },
+    {
+      "text": "Başlangıç Fiyatı: 90.000 €",
+      "color": "#facc15",
+      "size": "18",
+      "weight": "600",
+      "isBadge": false
+    },
+    {
+      "text": "856,25 m2",
+      "color": "#ff0000",
+      "size": "18",
+      "weight": "600",
+      "isBadge": false
+    },
+    {
+      "text": "SATILIK PARSEL",
+      "color": "#0284c7",
+      "size": "20",
+      "weight": "800",
+      "isBadge": true
+    }
+  ]
+}
